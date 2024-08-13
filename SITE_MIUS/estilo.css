@@ -2,7 +2,20 @@ body{
     color: white;
     font-size: larger;
     background-color: black;
+    margin: 0px;
+
+
+}
+header{
+
+    border-bottom: 2px yellow;
+    padding: 20px;
+    font-size: 32px;
+    color: cornflowerblue;
     
+
+
+
 
 
 }
