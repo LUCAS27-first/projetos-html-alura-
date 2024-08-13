@@ -8,7 +8,7 @@ body{
 }
 header{
 
-    border-bottom: 8px yellow;
+    border-bottom: solid 3px yellow;
     padding: 20px;
     font-size: 32px;
     color: cornflowerblue;
