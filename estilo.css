@@ -1,0 +1,64 @@
+body{
+    color: white;
+    font-size: larger;
+    background-color: black;
+    margin: 0px;
+
+
+}
+header{
+
+    border-bottom: solid 2px yellow;
+    padding: 20px;
+    font-size: 32px;
+    color: cornflowerblue;
+
+
+}
+.KENSHI{
+    background-color: #854945;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 90px;
+}
+
+.descritivo-kenshi{
+    margin: 4%;
+}
+
+img{
+    height: 500px;
+    border: green;
+    
+}
+
+.graviteam{
+    background-color: #4c4c42;
+    padding-bottom: 90px;
+}
+
+.er2{
+    background-color: #202023;
+    padding-bottom: 90px;
+}
+
+
+
+.fonte_er2{
+    color: #cc171c;
+}
+
+.descricao_doubt{
+    display: grid;
+    place-items: center;
+    width: 2000px;
+    height: 300px;
+     border: 1px solid #000;
+}
+
+
+
+.outros{
+    border-bottom: solid 2px rgb(0, 38, 255);
+    border-top: solid 2px rgb(0, 38, 255);
+}
